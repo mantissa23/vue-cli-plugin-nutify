@@ -1,14 +1,14 @@
 {
-  "name": "vue-cli-plugin-vuetify",
-  "version": "0.5.0",
-  "description": "Vuetify Framework Plugin for Vue CLI 3",
+  "name": "vue-cli-plugin-nutify",
+  "version": "0.1.0",
+  "description": "Nuxtjs + Vuetify Framework Plugin for vue-cli 3 (fork vue-cli-plugin-vuetify)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuetifyjs/vue-cli-plugin-vuetify.git"
+    "url": "git+https://github.com/mantissa23/vue-cli-plugin-nutify.git"
   },
   "keywords": [
     "vuetify",
@@ -18,16 +18,19 @@
     "vue-cli material",
     "vue-cli-3",
     "vue-cli-3 vuetify",
-    "vue-cli-3 material"
+    "vue-cli-3 vuetify 2.0",
+    "vue-cli-3 vuetify beta",
+    "vue-cli-3 material",
+    "vue-cli-3 nuxt-js"
   ],
-  "author": "John Leider <john@vuetifyjs.com>",
+  "author": "Dmitriy Maziuk <23b.maa@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuetifyjs/vue-cli-plugin-vuetify/issues"
+    "url": "https://github.com/mantissa23/vue-cli-plugin-nutify.git/issues"
   },
-  "homepage": "https://github.com/vuetifyjs/vue-cli-plugin-vuetify#readme",
+  "homepage": "https://github.com/mantissa23/vue-cli-plugin-nutify.git#readme",
   "devDependencies": {
-    "@vue/cli-service": "^3.8.0",
+    "@vue/cli-service": "^3.9.2",
     "vuetify": "^2.0.0-beta.0",
     "vuetify-loader": "^1.2.2"
   },
